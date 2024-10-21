@@ -3,6 +3,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## About
 LiveDocs is a fully-featured, real-time collaborative editing platform, providing a secure and user-friendly alternative to Google Docs. Built using modern technologies, it demonstrates my ability to develop complex, scalable applications focused on user experience.
 
+Vist: http://live-docs-umber.vercel.app/
+
 ## Features
 - **Collaborative Text Editor**: Real-time editing experience supporting multiple concurrent users, improving team productivity by 20%.
 - **Document Management**: Users can create, delete, and securely share documents with precise permission controls.
